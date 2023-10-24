@@ -3,9 +3,9 @@ version: '3'
 services:
   go-proxy-bingai:
     # 镜像名称
-    image: adams549659584/go-proxy-bingai
+    image: ooliuyue/bingai
     # 容器名称
-    container_name: go-proxy-bingai  
+    container_name: bingai
     # 自启动
     restart: unless-stopped
     ports:

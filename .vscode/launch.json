@@ -14,7 +14,7 @@
         "PORT": "8899",
         "Go_Proxy_BingAI_Debug": "true",
         "Go_Proxy_BingAI_SOCKS_URL": "192.168.0.88:1070",
-        // "Go_Proxy_BingAI_SOCKS_USER": "xxx",
+        "Go_Proxy_BingAI_SOCKS_USER": "1vykcP9d40BK5uM6jesSAQtFJ6qjD8eHb4Dvx2IErbsBLwfVKff4cGaikUCb1Ewqw_1_dUeOIjE73OUrd6eU_QvaneisfdNgptYGpeC0U7LICfSzHZcicEN9_HarDv3ffa3PU-npeAynNwyFmBgaXG_SFOacwrkY2Q8yWAtsIASAing7RUCM7FpVHF9mCtZE1HTOr3Bq0wOB3sa52gFkTOQ"
         // "Go_Proxy_BingAI_SOCKS_PWD": "xxx",
         // "Go_Proxy_BingAI_USER_TOKEN_1": "xxx",
         // "Go_Proxy_BingAI_USER_TOKEN_2": "xxx"
